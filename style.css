@@ -216,7 +216,7 @@ a:hover {
 /* Hero Section */
 .hero {
     position: relative;
-    height: 100vh;
+    height: 150vh;
     background-image: url('https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
     background-size: cover;
     background-position: center;
